@@ -1,0 +1,31 @@
+*{
+border-color: black;
+border-width: 1px;
+border-style: dotted;
+font-family: sans-serif;
+
+}
+
+body {
+background-color: #FFCA20;
+padding-top: 0px;
+margin: 0px;
+}
+#logo{
+background-color: #1E4B82;
+padding-top: 0px;
+}
+body header{
+    border-color: brown;
+    
+}
+body footer{
+    border-color: cornflowerblue;
+}
+body main{
+    border-color: darkgreen;
+}
+img {
+    width: 10%;
+    height: 10%;
+}
